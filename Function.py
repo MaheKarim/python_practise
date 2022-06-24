@@ -1,5 +1,11 @@
 def index():
     name = "Mahe Karim"
     print("Hello " + name + "!")
-# Call Function  
-index()
+#index()
+
+## Write Func With Params
+def para(name):
+    print("Print My Parameter " + name)
+    
+takeName = input()  
+para(takeName)
