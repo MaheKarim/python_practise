@@ -1,4 +1,3 @@
-
 friends_name = ["Kevin", "Karen", "Karim"]
 lucky_number = [11, 15, 10]
 
