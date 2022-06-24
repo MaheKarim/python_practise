@@ -31,3 +31,7 @@ lucky_number = [11, 15, 10]
 ## For Loop In List
     # for x in friends_name:
     #     print(x)
+    
+## Sort The Item List
+    # lucky_number.sort()
+    # print(lucky_number)
