@@ -27,3 +27,7 @@ lucky_number = [11, 15, 10]
     
 ## Count The Item From List
     # print(friends_name.count("Karim"))
+    
+## For Loop In List
+    # for x in friends_name:
+    #     print(x)
