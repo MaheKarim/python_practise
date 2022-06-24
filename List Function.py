@@ -25,4 +25,5 @@ lucky_number = [11, 15, 10]
 ## Index Number Of The Element
     # print(friends_name.index("Karim"))
     
-## 
+## Count The Item From List
+    # print(friends_name.count("Karim"))
